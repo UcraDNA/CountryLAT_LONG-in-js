@@ -2,7 +2,7 @@
     var numb =Math.floor(Math.random() * 244) + 1;
 
     // array selector
-    return data = "contry".concat(numb);
+    var data = "contry".concat(numb);
     
 
 
